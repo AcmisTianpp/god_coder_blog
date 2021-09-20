@@ -3,4 +3,4 @@
 
 学习地址：https://www.bilibili.com/video/BV1Gb4y1d7zb
 
-演示地址：tianp.top
+演示地址：http://tianp.top
